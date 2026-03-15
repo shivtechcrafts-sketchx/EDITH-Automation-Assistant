@@ -1,0 +1,4 @@
+ASSISTANT_NAME = "edith"
+WAKE_WORD = "edith"
+VOICE_RATE = 170
+WINDOW_SIZE = (500, 500)

@@ -1,0 +1,6 @@
+pygame
+pyaudio
+SpeechRecognition
+pyttsx3
+pillow
+cv2-python
