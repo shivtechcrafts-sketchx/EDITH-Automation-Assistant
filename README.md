@@ -21,7 +21,7 @@
 
 ---
  
-## ## 🎥 Live Project Preview
+## 🎥 Live Project Preview
 
 <p align="center">
   <a href="YOUR_DEMO_VIDEO_LINK_HERE">
@@ -29,6 +29,7 @@
   </a>
 </p>
  👉🏻 https://drive.google.com/file/d/1giyu2gLxPl-1gEjf33wPRNpyOnt5ihSr/view?usp=drivesdk
+
 ----
 
 ## 🧠 Project Overview
