@@ -49,11 +49,7 @@
   </a>
 </p>
 
-> 📌 **Replace** `YOUR_DEMO_VIDEO_LINK_HERE` with your:
-- YouTube demo video  
-- LinkedIn post link  
-- Google Drive demo video link  
-- Portfolio website demo link  
+> 📌  `https://drive.google.com/file/d/1giyu2gLxPl-1gEjf33wPRNpyOnt5ihSr/view?usp=drivesdk`
 
 ---
 
