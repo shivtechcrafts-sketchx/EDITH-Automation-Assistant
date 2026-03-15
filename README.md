@@ -21,7 +21,14 @@
 
 ---
  
-## Small Demo Video 👉🏻 https://drive.google.com/file/d/1giyu2gLxPl-1gEjf33wPRNpyOnt5ihSr/view?usp=drivesdk
+## ## 🎥 Live Project Preview
+
+<p align="center">
+  <a href="YOUR_DEMO_VIDEO_LINK_HERE">
+    <img src="https://img.shields.io/badge/🎬%20Watch%20Demo-Click%20Here-ff003c?style=for-the-badge" />
+  </a>
+</p>
+ 👉🏻 https://drive.google.com/file/d/1giyu2gLxPl-1gEjf33wPRNpyOnt5ihSr/view?usp=drivesdk
 ----
 
 ## 🧠 Project Overview
@@ -41,15 +48,7 @@
 
 ---
 
-## 🎥 Live Project Preview
 
-<p align="center">
-  <a href="YOUR_DEMO_VIDEO_LINK_HERE">
-    <img src="https://img.shields.io/badge/🎬%20Watch%20Demo-Click%20Here-ff003c?style=for-the-badge" />
-  </a>
-</p>
-
-> 📌  `https://drive.google.com/file/d/1giyu2gLxPl-1gEjf33wPRNpyOnt5ihSr/view?usp=drivesdk`
 
 ---
 
